@@ -1,2 +1,5 @@
 # BasicReactRedux-2018
-My Basic Set up for React Apps.  Has reach routing and redux already implemented.  Just Grab and Go
+My Basic Set up for React Apps.  Has Reach Routing, Less, and Redux already implemented.  Just Grab and Go
+
+npm install
+npm start
